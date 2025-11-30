@@ -1,6 +1,9 @@
 from pyscript import document, display
 
-Statement = {
-    'Information': 'check main.py to find this text',
+data = {
+"school_name":"BrightByte Academy",
+"Information":"We aim to teach people of all ages about coding, hoping that they can make different websites."
+
 }
-display(f'{Statement["Information"]}', target='output')
+
+display(f'{data["Information"]}', target='output')
