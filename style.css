@@ -1,0 +1,42 @@
+body {
+    background-color: #234C6A
+}
+.navbar{
+    background-color: rgb(27, 60, 83);
+}
+.nav-link{
+    color: #E3E3E3;
+}
+.nav-link:hover{
+    color: white;
+}
+.header2{
+    text-align: center;
+    color: white;
+    background-color: #325d7c;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+#schoolpfp{
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+}
+main{
+    margin: 20px;
+    padding: 20px;
+    background-color: #456882;
+    border-radius: 10px;
+}
+footer{
+    background-color: rgb(27, 60, 83);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
